@@ -1,2 +1,4 @@
 # Sales_LSTM_MLP-with-LSTM-encoded
-Time series forecasting of sales using LSTM and MLP. Comparison of both models. 
+I have build two models using LSTM and MLP using similar topology(type/number of layers and nuerons)
+
+Both models' results were pretty close. 
